@@ -21,6 +21,16 @@
   },
   "publications": [
     {
+      "slug": "semantic-svg-generation",
+      "title": "Compositional SVG Generation",
+      "projectUrl": "https://ku-miil.github.io/semantic-svg-generation/",
+      "focalPoint": { "x": 0.28, "y": 0.5 },
+      "still": {
+        "type": "url",
+        "url": "https://ku-miil.github.io/semantic-svg-generation/static/images/teaser.png"
+      }
+    },
+    {
       "slug": "instant-nurec",
       "title": "Instant NuRec",
       "projectUrl": "https://research.nvidia.com/labs/sil/projects/instant-nurec/",
